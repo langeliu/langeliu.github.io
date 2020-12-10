@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my Github Page
 
-You can use the [editor on GitHub](https://github.com/langeliu/langeliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Liu Yang(刘洋 in Chinese). I recieved my bachelor degree of engineering from Nanjing University in June, 2020 and I am a PhD student at Academy for Engineering and Applied Technology, Fudan University. My research directions focus on deep learning and anomaly detection. Here are some of my experience and projects, welcome to star and fork. If you have anly problems, please contact me via [E-mail](mailto:yang_liu20@fudan.edu.cn).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Latest News
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/langeliu/langeliu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Honors
+- Outstanding Graduate of Nanjing University, June 2020, Nanjing, China
+- Outstanding Undergraduate of Jiangsu Province, May 2019, Nanjing, China
+- Outstanding Student of Nanjing University, December 2018, Nanjing, China
+- The First Prize of Euducational Robots Competition of China, November 2018, Beihai, China
+- Honorble Mention of Mathmatical Competition in Modeling, April 2020, USA
+- Outstanding Student of Nanjing University, December 2017, Nanjing, China
+- Champion of UK MicroMouse, June 2018, Birmingham, The United Kingdom
