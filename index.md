@@ -1,6 +1,6 @@
 ## Welcome to my Github Page
 
-I am Liu Yang(刘洋 in Chinese). I recieved my bachelor degree of engineering from Nanjing University in June, 2020 and I am a PhD student at Academy for Engineering and Applied Technology, Fudan University. My research directions focus on deep learning and anomaly detection. Here are some of my experience and projects, welcome to star and fork. If you have anly problems, please contact me via [E-mail](mailto:yang_liu20@fudan.edu.cn).
+I am Liu Yang (刘洋 in Chinese). I recieved my bachelor degree of engineering from Nanjing University in June, 2020, and now a PhD student at Academy for Engineering and Applied Technology, Fudan University. My research directions focus on deep learning, anomaly detection and data mining. Here are some of my experience and projects, welcome to star and fork. If you have anly problems, please contact me via [E-mail](mailto:yang_liu20@fudan.edu.cn).
 
 ### Latest News
 
