@@ -1,18 +1,14 @@
 ## Welcome to my Github Page
+I am Yang Liu(刘洋 in Chinese), and this is my personal github page, where I share my thinkings, projectes and some interesting works. Welcome to read and comment, if you have anly problem, please contact me via [email](mailto:yang_liu20@fudan.edu.cn).
 
-I am Liu Yang (刘洋 in Chinese). I recieved my bachelor degree of engineering from Nanjing University in June, 2020, and now a PhD student at Academy for Engineering and Applied Technology, Fudan University. My research directions focus on deep learning, anomaly detection and data mining. Here are some of my experience and projects, welcome to star and fork. If you have anly problems, please contact me via [E-mail](mailto:yang_liu20@fudan.edu.cn).
+### Files
+#### Weekly Meeting
+[20-12-14](https://github.com/langeliu/WeeklyMettings/blob/main/201214-MIL%E5%AE%9E%E9%AA%8C%E5%A4%8D%E7%8E%B0%E7%AC%94%E8%AE%B0%E5%8F%8A%E5%AE%89%E6%8E%92.md)
 
-### Latest News
+#### Classic papers
 
 ### Projects
 
 ### Publications
 
-### Honors
-- Outstanding Graduate of Nanjing University, June 2020, Nanjing, China
-- Outstanding Undergraduate of Jiangsu Province, May 2019, Nanjing, China
-- Outstanding Student of Nanjing University, December 2018, Nanjing, China
-- The First Prize of Euducational Robots Competition of China, November 2018, Beihai, China
-- Honorble Mention of Mathmatical Competition in Modeling, April 2020, USA
-- Outstanding Student of Nanjing University, December 2017, Nanjing, China
-- Champion of UK MicroMouse, June 2018, Birmingham, The United Kingdom
+### References
