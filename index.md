@@ -7,8 +7,11 @@ I am Yang Liu(刘洋 in Chinese), and this is my personal github page, where I s
 
 [20-12-14](https://github.com/langeliu/WeeklyMettings/blob/main/201214-MIL%E5%AE%9E%E9%AA%8C%E5%A4%8D%E7%8E%B0%E7%AC%94%E8%AE%B0.md) 
 
-
 #### Classic papers
+
+Software Guides
+
+[Usage of github](https://github.com/langeliu/Guides/blob/main/github%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md) 
 
 ### Projects
 
