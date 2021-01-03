@@ -11,6 +11,8 @@ I am Yang Liu(刘洋 in Chinese), and this is my personal github page, where I s
 
 [20-12-28](https://github.com/langeliu/WeeklyMettings/blob/main/201228-MIL%E5%AE%8C%E5%96%84%E5%8F%8A%E5%AF%B9%E6%AF%94%E5%AE%9E%E9%AA%8C.md)   [Appendix](https://github.com/langeliu/WeeklyMettings/blob/main/1228%E8%AE%B0%E5%BD%95.md) 
 
+[21-1-3: Transformer](https://github.com/langeliu/WeeklyMettings/blob/main/210103-transformor.md)
+
 #### Classic papers
 
 Software Guides
